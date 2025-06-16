@@ -1,2 +1,0 @@
-# BSIT_SECTION_PRELIM_A1_PokemonAppComparison
-
